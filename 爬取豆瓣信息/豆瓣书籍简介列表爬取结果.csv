@@ -1,0 +1,186 @@
+book_id,book_title,rate_score,rate_nums,book_pub_info,book_desc,book_url,pic_url
+36365320,Python编程（第3版）,9.3,(146人评价),[美] 埃里克 • 马瑟斯（Eric Matthes） / 袁国忠 / 人民邮电出版社 / 2023-5 / 109.80元,"享誉全球的Python入门书，影响了超过250万读者。
+◎ 编辑推荐
+编程入门就选蟒蛇书！
+【经典】Python入门圣经，长居 Amazon、京东等编程类图...",https://book.douban.com/subject/36365320/,https://img3.doubanio.com/view/subject/s/public/s34505252.jpg
+35006892,程序员修炼之道（第2版）,9.1,(725人评价),[美] David Thomas、[美] Andrew Hunt / 云风 / 电子工业出版社 / 2020-4-1 / 89.00元,本书之所以在全球范围内广泛传播，被一代代开发者奉为圭臬，盖因它可以创造出真正的价值：或编写出更好的软件，或探究出编程的本质，而所有收获均不依赖于特定语言、框...,https://book.douban.com/subject/35006892/,https://img9.doubanio.com/view/subject/s/public/s33836286.jpg
+36547630,Rust程序设计（第2版）,9.3,(33人评价),[美]吉姆·布兰迪（Jim Blandy）、[美]贾森 • 奥伦多夫（Jason Orendorff）、[美]莉奥诺拉 • F. S. 廷德尔（Leonora F. S. Tindall） / 汪志成（@雪狼） / 人民邮电出版社 / 2023-9-5 / 179.8元,"本书是Rust领域经典参考书，由业内资深系统程序员编写，广受读者好评。
+书中全面介绍了Rust这种新型系统编程语言——具有无与伦比的安全性，兼具C和C++的...",https://book.douban.com/subject/36547630/,https://img3.doubanio.com/view/subject/s/public/s34641512.jpg
+36457109,程序员的README,8.6,(95人评价),[美] 克里斯·里科米尼（Chris Riccomini）、[美] 德米特里·里亚博伊（Dmitriy Ryaboy） / 付裕 / 人民邮电出版社 / 2023-7-10 / 79.8,对于刚刚成为软件工程师的新手来说，知道如何编写代码只是成功了一半。你可能很快就会发现，学校并没有教授在现实世界中至关重要的技能和工作中必要的流程。本书恰恰填...,https://book.douban.com/subject/36457109/,https://img9.doubanio.com/view/subject/s/public/s34570616.jpg
+35503091,C语言程序设计：现代方法（第2版•修订版）,9.2,(114人评价),[美] K.N.金 / 吕秀锋、黄倩 / 图灵丨人民邮电出版社 / 2021-7 / 129.80元,"◎ 本书特色
+近30年来珍宝级C语言入门经典，累计印数10万+，豆瓣评分9.3分
+哈佛、麻省理工、斯坦福等诸多名校C语言教材
+基于C1X标准全新升级
+浙江大...",https://book.douban.com/subject/35503091/,https://img9.doubanio.com/view/subject/s/public/s33927414.jpg
+1998341,计算机系统要素,9.1,(269人评价),[美] Noam Nisan、[美] Shimon Schocken / 周维、宋磊、陈曦 / 电子工业出版社 / 2007-01-01 / 45.00元,本书通过展现简单但功能强大的计算机系统之构建过程，为读者呈现了一幅完整、严格的计算机应用科学大图景。本书作者认为，理解计算机工作原理的最好方法就是亲自动手，...,https://book.douban.com/subject/1998341/,https://img9.doubanio.com/view/subject/s/public/s2207295.jpg
+35972849,代码大全2（纪念版）,9.3,(62人评价),[美] 史蒂夫·麦康奈尔(Steve McConnell) / 陈玉毅、陈军、杨志昂、洪佳、徐东伟、王国良、徐毅、李虎 / 清华大学出版社 / 2022-7-7 / 256.00,"《软件开发》杂志Jolt大奖
+大而全，洞悉软件构建精髓
+优而先，兼顾行业实践研究
+奠定硬核技术领导力的经典
+庸常变身卓越的实用性指导
+《代码大全2》是著名科...",https://book.douban.com/subject/35972849/,https://img3.doubanio.com/view/subject/s/public/s34276333.jpg
+35520512,深入浅出Pandas,8.6,(97人评价),李庆辉 / 机械工业出版社 / 2021-7-10 / 99.00,"如果你想充分发挥Python的强大作用，如果你想成为一名好的Python工程师，你应该先学好Pandas。
+这是一本全面覆盖了Pandas使用者的普遍需求和...",https://book.douban.com/subject/35520512/,https://img9.doubanio.com/view/subject/s/public/s33944495.jpg
+35768338,Vue.js设计与实现,9.6,(197人评价),霍春阳 / 人民邮电出版社 / 2022-2-10 / 119.8,本书基于Vue.js 3，从规范出发，以源码为基础，并结合大量直观的配图，循序渐进地讲解Vue.js中各个功能模块的实现，细致剖析框架设计原理。全书共18章...,https://book.douban.com/subject/35768338/,https://img9.doubanio.com/view/subject/s/public/s34120804.jpg
+33450010,动手学深度学习,9.3,(552人评价),阿斯顿·张（Aston Zhang）、李沐（Mu Li）、[美] 扎卡里·C. 立顿（Zachary C. Lipton）、[德] 亚历山大·J. 斯莫拉（Alexander J. Smola） / 人民邮电出版社 / 2019-6 / 85.00元,本书旨在向读者交付有关深度学习的交互式学习体验。书中不仅阐述深度学习的算法原理，还演示它们的实现和运行。与传统图书不同，本书的每一节都是一个可以下载并运行的...,https://book.douban.com/subject/33450010/,https://img9.doubanio.com/view/subject/s/public/s32322795.jpg
+26349607,MATLAB之父:编程实践(中译本),9.3,(20人评价),[ MEI ] Cleve Moler / 薛定宇 / 北京航空航天大学出版社 / 2014-3-1 / 39.9,《MATLAB 之父：编程实践》是克利夫（Cleve）继《MATLAB 数值分析与科学计算―― 基于MATLAB（修订版）》（Numerical Compu...,https://book.douban.com/subject/26349607/,https://img9.doubanio.com/view/subject/s/public/s28031915.jpg
+35602582,现代C++语言核心特性解析,8.9,(46人评价),谢丙堃 / 人民邮电出版社 / 2021-10,这是一本 C++ 进阶图书，全书分为 42 章，深入探讨了从 C++11 到 C++20 引入的核心特性。本书不仅通过大量的实例代码讲解特性的概念和语法，还...,https://book.douban.com/subject/35602582/,https://img3.doubanio.com/view/subject/s/public/s33999027.jpg
+36303408,深度学习入门2,9.7,(32人评价),[日]斋藤康毅 / 郑明智 / 人民邮电出版社 / 2023-3 / 129.80元,"“鱼书”《深度学习入门：基于Python的理论与实现》作者又一力作。
+手把手带你创建深度学习框架，直击现代深度学习框架本质！
+◎ 编辑推荐
+• 简明易懂，讲...",https://book.douban.com/subject/36303408/,https://img3.doubanio.com/view/subject/s/public/s34476102.jpg
+35863224,C++20高级编程(第5版),8.4,(195人评价),[比]马克·格雷戈勒（Marc Gregoire） / 程序喵大人、惠惠、墨梵 / 清华大学出版社 / 2022-4 / 228,"拥抱C++的深度和复杂性，挖掘更多可能
+众所周知，C++难以掌握，但其广泛的功能使其成为游戏和商业软件应用程序中最常用的语言。即使是有经验的用户通常也不熟悉...",https://book.douban.com/subject/35863224/,https://img3.doubanio.com/view/subject/s/public/s34341252.jpg
+30329536,数据密集型应用系统设计,9.7,(1709人评价),Martin Kleppmann / 赵军平、李三平、吕云松、耿煜 / 中国电力出版社 / 2018-9-1 / 128,"全书分为三大部分：
+第一部分，主要讨论有关增强数据密集型应用系统所需的若干基本原则。首先开篇第1章即瞄准目标：可靠性、可扩展性与可维护性，如何认识这些问题以...",https://book.douban.com/subject/30329536/,https://img1.doubanio.com/view/subject/s/public/s34186559.jpg
+35144587,Go专家编程,9.1,(128人评价),任洪彩 / 电子工业出版社 / 2020-7 / 108.00元,《Go专家编程》深入地讲解了Go语言常见特性的内部机制和实现方式，大部分内容源自对Go语言源码的分析，并从中提炼出实现原理。通过阅读本书，读者可以快速、轻松...,https://book.douban.com/subject/35144587/,https://img3.doubanio.com/view/subject/s/public/s33699643.jpg
+25844633,实现领域驱动设计,8.4,(416人评价),Vaughn Vernon / 滕云 / 电子工业出版社 / 2014-3 / 99.00元,领域驱动设计（DDD）是教我们如何做好软件的，同时也是教我们如何更好地使用面向对象技术的。它为我们提供了设计软件的全新视角，同时也给开发者留下了一大难题：如...,https://book.douban.com/subject/25844633/,https://img1.doubanio.com/view/subject/s/public/s29544670.jpg
+30333919,架构整洁之道,8.7,(858人评价),【美】Robert C. Martin（罗伯特 C. 马丁） / 电子工业出版社 / 2018-9 / 99.00元,《架构整洁之道》是创造“Clean神话”的Bob大叔在架构领域的登峰之作，围绕“架构整洁”这一重要导向，系统地剖析其缘起、内涵及应用场景，涵盖软件研发完整过...,https://book.douban.com/subject/30333919/,https://img9.doubanio.com/view/subject/s/public/s29943454.jpg
+5387403,Effective C++,9.5,(1104人评价),[美] Scott Meyers / 侯捷 / 电子工业出版社 / 2011-1-1 / 65.00元,"在国际上，本书所引起的反响，波及整个计算机技术的出版领域，余音至今未绝。几乎在所有C++书籍的推荐名单上，这本书都会位于前三名。
+作者高超的技术把握力、独特...",https://book.douban.com/subject/5387403/,https://img2.doubanio.com/view/subject/s/public/s4647091.jpg
+35006892,程序员修炼之道（第2版）,9.1,(725人评价),[美] David Thomas、[美] Andrew Hunt / 云风 / 电子工业出版社 / 2020-4-1 / 89.00元,本书之所以在全球范围内广泛传播，被一代代开发者奉为圭臬，盖因它可以创造出真正的价值：或编写出更好的软件，或探究出编程的本质，而所有收获均不依赖于特定语言、框...,https://book.douban.com/subject/35006892/,https://img9.doubanio.com/view/subject/s/public/s33836286.jpg
+36547630,Rust程序设计（第2版）,9.3,(33人评价),[美]吉姆·布兰迪（Jim Blandy）、[美]贾森 • 奥伦多夫（Jason Orendorff）、[美]莉奥诺拉 • F. S. 廷德尔（Leonora F. S. Tindall） / 汪志成（@雪狼） / 人民邮电出版社 / 2023-9-5 / 179.8元,"本书是Rust领域经典参考书，由业内资深系统程序员编写，广受读者好评。
+书中全面介绍了Rust这种新型系统编程语言——具有无与伦比的安全性，兼具C和C++的...",https://book.douban.com/subject/36547630/,https://img3.doubanio.com/view/subject/s/public/s34641512.jpg
+36457109,程序员的README,8.6,(95人评价),[美] 克里斯·里科米尼（Chris Riccomini）、[美] 德米特里·里亚博伊（Dmitriy Ryaboy） / 付裕 / 人民邮电出版社 / 2023-7-10 / 79.8,对于刚刚成为软件工程师的新手来说，知道如何编写代码只是成功了一半。你可能很快就会发现，学校并没有教授在现实世界中至关重要的技能和工作中必要的流程。本书恰恰填...,https://book.douban.com/subject/36457109/,https://img9.doubanio.com/view/subject/s/public/s34570616.jpg
+35503091,C语言程序设计：现代方法（第2版•修订版）,9.2,(114人评价),[美] K.N.金 / 吕秀锋、黄倩 / 图灵丨人民邮电出版社 / 2021-7 / 129.80元,"◎ 本书特色
+近30年来珍宝级C语言入门经典，累计印数10万+，豆瓣评分9.3分
+哈佛、麻省理工、斯坦福等诸多名校C语言教材
+基于C1X标准全新升级
+浙江大...",https://book.douban.com/subject/35503091/,https://img9.doubanio.com/view/subject/s/public/s33927414.jpg
+1998341,计算机系统要素,9.1,(269人评价),[美] Noam Nisan、[美] Shimon Schocken / 周维、宋磊、陈曦 / 电子工业出版社 / 2007-01-01 / 45.00元,本书通过展现简单但功能强大的计算机系统之构建过程，为读者呈现了一幅完整、严格的计算机应用科学大图景。本书作者认为，理解计算机工作原理的最好方法就是亲自动手，...,https://book.douban.com/subject/1998341/,https://img9.doubanio.com/view/subject/s/public/s2207295.jpg
+35972849,代码大全2（纪念版）,9.3,(62人评价),[美] 史蒂夫·麦康奈尔(Steve McConnell) / 陈玉毅、陈军、杨志昂、洪佳、徐东伟、王国良、徐毅、李虎 / 清华大学出版社 / 2022-7-7 / 256.00,"《软件开发》杂志Jolt大奖
+大而全，洞悉软件构建精髓
+优而先，兼顾行业实践研究
+奠定硬核技术领导力的经典
+庸常变身卓越的实用性指导
+《代码大全2》是著名科...",https://book.douban.com/subject/35972849/,https://img3.doubanio.com/view/subject/s/public/s34276333.jpg
+35520512,深入浅出Pandas,8.6,(97人评价),李庆辉 / 机械工业出版社 / 2021-7-10 / 99.00,"如果你想充分发挥Python的强大作用，如果你想成为一名好的Python工程师，你应该先学好Pandas。
+这是一本全面覆盖了Pandas使用者的普遍需求和...",https://book.douban.com/subject/35520512/,https://img9.doubanio.com/view/subject/s/public/s33944495.jpg
+35768338,Vue.js设计与实现,9.6,(197人评价),霍春阳 / 人民邮电出版社 / 2022-2-10 / 119.8,本书基于Vue.js 3，从规范出发，以源码为基础，并结合大量直观的配图，循序渐进地讲解Vue.js中各个功能模块的实现，细致剖析框架设计原理。全书共18章...,https://book.douban.com/subject/35768338/,https://img9.doubanio.com/view/subject/s/public/s34120804.jpg
+33450010,动手学深度学习,9.3,(552人评价),阿斯顿·张（Aston Zhang）、李沐（Mu Li）、[美] 扎卡里·C. 立顿（Zachary C. Lipton）、[德] 亚历山大·J. 斯莫拉（Alexander J. Smola） / 人民邮电出版社 / 2019-6 / 85.00元,本书旨在向读者交付有关深度学习的交互式学习体验。书中不仅阐述深度学习的算法原理，还演示它们的实现和运行。与传统图书不同，本书的每一节都是一个可以下载并运行的...,https://book.douban.com/subject/33450010/,https://img9.doubanio.com/view/subject/s/public/s32322795.jpg
+26349607,MATLAB之父:编程实践(中译本),9.3,(20人评价),[ MEI ] Cleve Moler / 薛定宇 / 北京航空航天大学出版社 / 2014-3-1 / 39.9,《MATLAB 之父：编程实践》是克利夫（Cleve）继《MATLAB 数值分析与科学计算―― 基于MATLAB（修订版）》（Numerical Compu...,https://book.douban.com/subject/26349607/,https://img9.doubanio.com/view/subject/s/public/s28031915.jpg
+35602582,现代C++语言核心特性解析,8.9,(46人评价),谢丙堃 / 人民邮电出版社 / 2021-10,这是一本 C++ 进阶图书，全书分为 42 章，深入探讨了从 C++11 到 C++20 引入的核心特性。本书不仅通过大量的实例代码讲解特性的概念和语法，还...,https://book.douban.com/subject/35602582/,https://img3.doubanio.com/view/subject/s/public/s33999027.jpg
+36303408,深度学习入门2,9.7,(32人评价),[日]斋藤康毅 / 郑明智 / 人民邮电出版社 / 2023-3 / 129.80元,"“鱼书”《深度学习入门：基于Python的理论与实现》作者又一力作。
+手把手带你创建深度学习框架，直击现代深度学习框架本质！
+◎ 编辑推荐
+• 简明易懂，讲...",https://book.douban.com/subject/36303408/,https://img3.doubanio.com/view/subject/s/public/s34476102.jpg
+35863224,C++20高级编程(第5版),8.4,(195人评价),[比]马克·格雷戈勒（Marc Gregoire） / 程序喵大人、惠惠、墨梵 / 清华大学出版社 / 2022-4 / 228,"拥抱C++的深度和复杂性，挖掘更多可能
+众所周知，C++难以掌握，但其广泛的功能使其成为游戏和商业软件应用程序中最常用的语言。即使是有经验的用户通常也不熟悉...",https://book.douban.com/subject/35863224/,https://img3.doubanio.com/view/subject/s/public/s34341252.jpg
+30329536,数据密集型应用系统设计,9.7,(1709人评价),Martin Kleppmann / 赵军平、李三平、吕云松、耿煜 / 中国电力出版社 / 2018-9-1 / 128,"全书分为三大部分：
+第一部分，主要讨论有关增强数据密集型应用系统所需的若干基本原则。首先开篇第1章即瞄准目标：可靠性、可扩展性与可维护性，如何认识这些问题以...",https://book.douban.com/subject/30329536/,https://img1.doubanio.com/view/subject/s/public/s34186559.jpg
+35144587,Go专家编程,9.1,(128人评价),任洪彩 / 电子工业出版社 / 2020-7 / 108.00元,《Go专家编程》深入地讲解了Go语言常见特性的内部机制和实现方式，大部分内容源自对Go语言源码的分析，并从中提炼出实现原理。通过阅读本书，读者可以快速、轻松...,https://book.douban.com/subject/35144587/,https://img3.doubanio.com/view/subject/s/public/s33699643.jpg
+25844633,实现领域驱动设计,8.4,(416人评价),Vaughn Vernon / 滕云 / 电子工业出版社 / 2014-3 / 99.00元,领域驱动设计（DDD）是教我们如何做好软件的，同时也是教我们如何更好地使用面向对象技术的。它为我们提供了设计软件的全新视角，同时也给开发者留下了一大难题：如...,https://book.douban.com/subject/25844633/,https://img1.doubanio.com/view/subject/s/public/s29544670.jpg
+30333919,架构整洁之道,8.7,(858人评价),【美】Robert C. Martin（罗伯特 C. 马丁） / 电子工业出版社 / 2018-9 / 99.00元,《架构整洁之道》是创造“Clean神话”的Bob大叔在架构领域的登峰之作，围绕“架构整洁”这一重要导向，系统地剖析其缘起、内涵及应用场景，涵盖软件研发完整过...,https://book.douban.com/subject/30333919/,https://img9.doubanio.com/view/subject/s/public/s29943454.jpg
+5387403,Effective C++,9.5,(1104人评价),[美] Scott Meyers / 侯捷 / 电子工业出版社 / 2011-1-1 / 65.00元,"在国际上，本书所引起的反响，波及整个计算机技术的出版领域，余音至今未绝。几乎在所有C++书籍的推荐名单上，这本书都会位于前三名。
+作者高超的技术把握力、独特...",https://book.douban.com/subject/5387403/,https://img2.doubanio.com/view/subject/s/public/s4647091.jpg
+36654266,高级算法和数据结构,9.7,(28人评价),马塞洛·拉·罗卡（Marcello La Rocca） / 肖鉴明 / 人民邮电出版社 / 2023-12 / 149.80元,这是一本关于“高级/进阶”算法和数据结构的图书，主要介绍了用于Web应用程序、系统编程和数据处理领域的各种算法，旨在让读者了解如何用这些算法应对各种棘手的编...,https://book.douban.com/subject/36654266/,https://img9.doubanio.com/view/subject/s/public/s34704215.jpg
+35006892,程序员修炼之道（第2版）,9.1,(725人评价),[美] David Thomas、[美] Andrew Hunt / 云风 / 电子工业出版社 / 2020-4-1 / 89.00元,本书之所以在全球范围内广泛传播，被一代代开发者奉为圭臬，盖因它可以创造出真正的价值：或编写出更好的软件，或探究出编程的本质，而所有收获均不依赖于特定语言、框...,https://book.douban.com/subject/35006892/,https://img9.doubanio.com/view/subject/s/public/s33836286.jpg
+36547630,Rust程序设计（第2版）,9.3,(33人评价),[美]吉姆·布兰迪（Jim Blandy）、[美]贾森 • 奥伦多夫（Jason Orendorff）、[美]莉奥诺拉 • F. S. 廷德尔（Leonora F. S. Tindall） / 汪志成（@雪狼） / 人民邮电出版社 / 2023-9-5 / 179.8元,"本书是Rust领域经典参考书，由业内资深系统程序员编写，广受读者好评。
+书中全面介绍了Rust这种新型系统编程语言——具有无与伦比的安全性，兼具C和C++的...",https://book.douban.com/subject/36547630/,https://img3.doubanio.com/view/subject/s/public/s34641512.jpg
+36457109,程序员的README,8.6,(95人评价),[美] 克里斯·里科米尼（Chris Riccomini）、[美] 德米特里·里亚博伊（Dmitriy Ryaboy） / 付裕 / 人民邮电出版社 / 2023-7-10 / 79.8,对于刚刚成为软件工程师的新手来说，知道如何编写代码只是成功了一半。你可能很快就会发现，学校并没有教授在现实世界中至关重要的技能和工作中必要的流程。本书恰恰填...,https://book.douban.com/subject/36457109/,https://img9.doubanio.com/view/subject/s/public/s34570616.jpg
+35503091,C语言程序设计：现代方法（第2版•修订版）,9.2,(114人评价),[美] K.N.金 / 吕秀锋、黄倩 / 图灵丨人民邮电出版社 / 2021-7 / 129.80元,"◎ 本书特色
+近30年来珍宝级C语言入门经典，累计印数10万+，豆瓣评分9.3分
+哈佛、麻省理工、斯坦福等诸多名校C语言教材
+基于C1X标准全新升级
+浙江大...",https://book.douban.com/subject/35503091/,https://img9.doubanio.com/view/subject/s/public/s33927414.jpg
+1998341,计算机系统要素,9.1,(269人评价),[美] Noam Nisan、[美] Shimon Schocken / 周维、宋磊、陈曦 / 电子工业出版社 / 2007-01-01 / 45.00元,本书通过展现简单但功能强大的计算机系统之构建过程，为读者呈现了一幅完整、严格的计算机应用科学大图景。本书作者认为，理解计算机工作原理的最好方法就是亲自动手，...,https://book.douban.com/subject/1998341/,https://img9.doubanio.com/view/subject/s/public/s2207295.jpg
+35972849,代码大全2（纪念版）,9.3,(62人评价),[美] 史蒂夫·麦康奈尔(Steve McConnell) / 陈玉毅、陈军、杨志昂、洪佳、徐东伟、王国良、徐毅、李虎 / 清华大学出版社 / 2022-7-7 / 256.00,"《软件开发》杂志Jolt大奖
+大而全，洞悉软件构建精髓
+优而先，兼顾行业实践研究
+奠定硬核技术领导力的经典
+庸常变身卓越的实用性指导
+《代码大全2》是著名科...",https://book.douban.com/subject/35972849/,https://img3.doubanio.com/view/subject/s/public/s34276333.jpg
+35520512,深入浅出Pandas,8.6,(97人评价),李庆辉 / 机械工业出版社 / 2021-7-10 / 99.00,"如果你想充分发挥Python的强大作用，如果你想成为一名好的Python工程师，你应该先学好Pandas。
+这是一本全面覆盖了Pandas使用者的普遍需求和...",https://book.douban.com/subject/35520512/,https://img9.doubanio.com/view/subject/s/public/s33944495.jpg
+35768338,Vue.js设计与实现,9.6,(197人评价),霍春阳 / 人民邮电出版社 / 2022-2-10 / 119.8,本书基于Vue.js 3，从规范出发，以源码为基础，并结合大量直观的配图，循序渐进地讲解Vue.js中各个功能模块的实现，细致剖析框架设计原理。全书共18章...,https://book.douban.com/subject/35768338/,https://img9.doubanio.com/view/subject/s/public/s34120804.jpg
+33450010,动手学深度学习,9.3,(552人评价),阿斯顿·张（Aston Zhang）、李沐（Mu Li）、[美] 扎卡里·C. 立顿（Zachary C. Lipton）、[德] 亚历山大·J. 斯莫拉（Alexander J. Smola） / 人民邮电出版社 / 2019-6 / 85.00元,本书旨在向读者交付有关深度学习的交互式学习体验。书中不仅阐述深度学习的算法原理，还演示它们的实现和运行。与传统图书不同，本书的每一节都是一个可以下载并运行的...,https://book.douban.com/subject/33450010/,https://img9.doubanio.com/view/subject/s/public/s32322795.jpg
+26349607,MATLAB之父:编程实践(中译本),9.3,(20人评价),[ MEI ] Cleve Moler / 薛定宇 / 北京航空航天大学出版社 / 2014-3-1 / 39.9,《MATLAB 之父：编程实践》是克利夫（Cleve）继《MATLAB 数值分析与科学计算―― 基于MATLAB（修订版）》（Numerical Compu...,https://book.douban.com/subject/26349607/,https://img9.doubanio.com/view/subject/s/public/s28031915.jpg
+35602582,现代C++语言核心特性解析,8.9,(46人评价),谢丙堃 / 人民邮电出版社 / 2021-10,这是一本 C++ 进阶图书，全书分为 42 章，深入探讨了从 C++11 到 C++20 引入的核心特性。本书不仅通过大量的实例代码讲解特性的概念和语法，还...,https://book.douban.com/subject/35602582/,https://img3.doubanio.com/view/subject/s/public/s33999027.jpg
+36303408,深度学习入门2,9.7,(32人评价),[日]斋藤康毅 / 郑明智 / 人民邮电出版社 / 2023-3 / 129.80元,"“鱼书”《深度学习入门：基于Python的理论与实现》作者又一力作。
+手把手带你创建深度学习框架，直击现代深度学习框架本质！
+◎ 编辑推荐
+• 简明易懂，讲...",https://book.douban.com/subject/36303408/,https://img3.doubanio.com/view/subject/s/public/s34476102.jpg
+35863224,C++20高级编程(第5版),8.4,(195人评价),[比]马克·格雷戈勒（Marc Gregoire） / 程序喵大人、惠惠、墨梵 / 清华大学出版社 / 2022-4 / 228,"拥抱C++的深度和复杂性，挖掘更多可能
+众所周知，C++难以掌握，但其广泛的功能使其成为游戏和商业软件应用程序中最常用的语言。即使是有经验的用户通常也不熟悉...",https://book.douban.com/subject/35863224/,https://img3.doubanio.com/view/subject/s/public/s34341252.jpg
+30329536,数据密集型应用系统设计,9.7,(1709人评价),Martin Kleppmann / 赵军平、李三平、吕云松、耿煜 / 中国电力出版社 / 2018-9-1 / 128,"全书分为三大部分：
+第一部分，主要讨论有关增强数据密集型应用系统所需的若干基本原则。首先开篇第1章即瞄准目标：可靠性、可扩展性与可维护性，如何认识这些问题以...",https://book.douban.com/subject/30329536/,https://img1.doubanio.com/view/subject/s/public/s34186559.jpg
+35144587,Go专家编程,9.1,(128人评价),任洪彩 / 电子工业出版社 / 2020-7 / 108.00元,《Go专家编程》深入地讲解了Go语言常见特性的内部机制和实现方式，大部分内容源自对Go语言源码的分析，并从中提炼出实现原理。通过阅读本书，读者可以快速、轻松...,https://book.douban.com/subject/35144587/,https://img3.doubanio.com/view/subject/s/public/s33699643.jpg
+25844633,实现领域驱动设计,8.4,(416人评价),Vaughn Vernon / 滕云 / 电子工业出版社 / 2014-3 / 99.00元,领域驱动设计（DDD）是教我们如何做好软件的，同时也是教我们如何更好地使用面向对象技术的。它为我们提供了设计软件的全新视角，同时也给开发者留下了一大难题：如...,https://book.douban.com/subject/25844633/,https://img1.doubanio.com/view/subject/s/public/s29544670.jpg
+30333919,架构整洁之道,8.7,(858人评价),【美】Robert C. Martin（罗伯特 C. 马丁） / 电子工业出版社 / 2018-9 / 99.00元,《架构整洁之道》是创造“Clean神话”的Bob大叔在架构领域的登峰之作，围绕“架构整洁”这一重要导向，系统地剖析其缘起、内涵及应用场景，涵盖软件研发完整过...,https://book.douban.com/subject/30333919/,https://img9.doubanio.com/view/subject/s/public/s29943454.jpg
+5387403,Effective C++,9.5,(1104人评价),[美] Scott Meyers / 侯捷 / 电子工业出版社 / 2011-1-1 / 65.00元,"在国际上，本书所引起的反响，波及整个计算机技术的出版领域，余音至今未绝。几乎在所有C++书籍的推荐名单上，这本书都会位于前三名。
+作者高超的技术把握力、独特...",https://book.douban.com/subject/5387403/,https://img2.doubanio.com/view/subject/s/public/s4647091.jpg
+36654266,高级算法和数据结构,9.7,(28人评价),马塞洛·拉·罗卡（Marcello La Rocca） / 肖鉴明 / 人民邮电出版社 / 2023-12 / 149.80元,这是一本关于“高级/进阶”算法和数据结构的图书，主要介绍了用于Web应用程序、系统编程和数据处理领域的各种算法，旨在让读者了解如何用这些算法应对各种棘手的编...,https://book.douban.com/subject/36654266/,https://img9.doubanio.com/view/subject/s/public/s34704215.jpg
+30270959,深度学习入门,9.5,(1381人评价),[日］斋藤康毅 / 陆宇杰 / 人民邮电出版社 / 2018-7 / 59.00元,本书是深度学习真正意义上的入门书，深入浅出地剖析了深度学习的原理和相关技术。书中使用Python3，尽量不依赖外部库或工具，从基本的数学知识出发，带领读者从...,https://book.douban.com/subject/30270959/,https://img9.doubanio.com/view/subject/s/public/s29815955.jpg
+36547630,Rust程序设计（第2版）,9.3,(33人评价),[美]吉姆·布兰迪（Jim Blandy）、[美]贾森 • 奥伦多夫（Jason Orendorff）、[美]莉奥诺拉 • F. S. 廷德尔（Leonora F. S. Tindall） / 汪志成（@雪狼） / 人民邮电出版社 / 2023-9-5 / 179.8元,"本书是Rust领域经典参考书，由业内资深系统程序员编写，广受读者好评。
+书中全面介绍了Rust这种新型系统编程语言——具有无与伦比的安全性，兼具C和C++的...",https://book.douban.com/subject/36547630/,https://img3.doubanio.com/view/subject/s/public/s34641512.jpg
+36457109,程序员的README,8.6,(95人评价),[美] 克里斯·里科米尼（Chris Riccomini）、[美] 德米特里·里亚博伊（Dmitriy Ryaboy） / 付裕 / 人民邮电出版社 / 2023-7-10 / 79.8,对于刚刚成为软件工程师的新手来说，知道如何编写代码只是成功了一半。你可能很快就会发现，学校并没有教授在现实世界中至关重要的技能和工作中必要的流程。本书恰恰填...,https://book.douban.com/subject/36457109/,https://img9.doubanio.com/view/subject/s/public/s34570616.jpg
+35503091,C语言程序设计：现代方法（第2版•修订版）,9.2,(114人评价),[美] K.N.金 / 吕秀锋、黄倩 / 图灵丨人民邮电出版社 / 2021-7 / 129.80元,"◎ 本书特色
+近30年来珍宝级C语言入门经典，累计印数10万+，豆瓣评分9.3分
+哈佛、麻省理工、斯坦福等诸多名校C语言教材
+基于C1X标准全新升级
+浙江大...",https://book.douban.com/subject/35503091/,https://img9.doubanio.com/view/subject/s/public/s33927414.jpg
+1998341,计算机系统要素,9.1,(269人评价),[美] Noam Nisan、[美] Shimon Schocken / 周维、宋磊、陈曦 / 电子工业出版社 / 2007-01-01 / 45.00元,本书通过展现简单但功能强大的计算机系统之构建过程，为读者呈现了一幅完整、严格的计算机应用科学大图景。本书作者认为，理解计算机工作原理的最好方法就是亲自动手，...,https://book.douban.com/subject/1998341/,https://img9.doubanio.com/view/subject/s/public/s2207295.jpg
+35972849,代码大全2（纪念版）,9.3,(62人评价),[美] 史蒂夫·麦康奈尔(Steve McConnell) / 陈玉毅、陈军、杨志昂、洪佳、徐东伟、王国良、徐毅、李虎 / 清华大学出版社 / 2022-7-7 / 256.00,"《软件开发》杂志Jolt大奖
+大而全，洞悉软件构建精髓
+优而先，兼顾行业实践研究
+奠定硬核技术领导力的经典
+庸常变身卓越的实用性指导
+《代码大全2》是著名科...",https://book.douban.com/subject/35972849/,https://img3.doubanio.com/view/subject/s/public/s34276333.jpg
+35520512,深入浅出Pandas,8.6,(97人评价),李庆辉 / 机械工业出版社 / 2021-7-10 / 99.00,"如果你想充分发挥Python的强大作用，如果你想成为一名好的Python工程师，你应该先学好Pandas。
+这是一本全面覆盖了Pandas使用者的普遍需求和...",https://book.douban.com/subject/35520512/,https://img9.doubanio.com/view/subject/s/public/s33944495.jpg
+35768338,Vue.js设计与实现,9.6,(197人评价),霍春阳 / 人民邮电出版社 / 2022-2-10 / 119.8,本书基于Vue.js 3，从规范出发，以源码为基础，并结合大量直观的配图，循序渐进地讲解Vue.js中各个功能模块的实现，细致剖析框架设计原理。全书共18章...,https://book.douban.com/subject/35768338/,https://img9.doubanio.com/view/subject/s/public/s34120804.jpg
+33450010,动手学深度学习,9.3,(552人评价),阿斯顿·张（Aston Zhang）、李沐（Mu Li）、[美] 扎卡里·C. 立顿（Zachary C. Lipton）、[德] 亚历山大·J. 斯莫拉（Alexander J. Smola） / 人民邮电出版社 / 2019-6 / 85.00元,本书旨在向读者交付有关深度学习的交互式学习体验。书中不仅阐述深度学习的算法原理，还演示它们的实现和运行。与传统图书不同，本书的每一节都是一个可以下载并运行的...,https://book.douban.com/subject/33450010/,https://img9.doubanio.com/view/subject/s/public/s32322795.jpg
+26349607,MATLAB之父:编程实践(中译本),9.3,(20人评价),[ MEI ] Cleve Moler / 薛定宇 / 北京航空航天大学出版社 / 2014-3-1 / 39.9,《MATLAB 之父：编程实践》是克利夫（Cleve）继《MATLAB 数值分析与科学计算―― 基于MATLAB（修订版）》（Numerical Compu...,https://book.douban.com/subject/26349607/,https://img9.doubanio.com/view/subject/s/public/s28031915.jpg
+35602582,现代C++语言核心特性解析,8.9,(46人评价),谢丙堃 / 人民邮电出版社 / 2021-10,这是一本 C++ 进阶图书，全书分为 42 章，深入探讨了从 C++11 到 C++20 引入的核心特性。本书不仅通过大量的实例代码讲解特性的概念和语法，还...,https://book.douban.com/subject/35602582/,https://img3.doubanio.com/view/subject/s/public/s33999027.jpg
+36303408,深度学习入门2,9.7,(32人评价),[日]斋藤康毅 / 郑明智 / 人民邮电出版社 / 2023-3 / 129.80元,"“鱼书”《深度学习入门：基于Python的理论与实现》作者又一力作。
+手把手带你创建深度学习框架，直击现代深度学习框架本质！
+◎ 编辑推荐
+• 简明易懂，讲...",https://book.douban.com/subject/36303408/,https://img3.doubanio.com/view/subject/s/public/s34476102.jpg
+35863224,C++20高级编程(第5版),8.4,(195人评价),[比]马克·格雷戈勒（Marc Gregoire） / 程序喵大人、惠惠、墨梵 / 清华大学出版社 / 2022-4 / 228,"拥抱C++的深度和复杂性，挖掘更多可能
+众所周知，C++难以掌握，但其广泛的功能使其成为游戏和商业软件应用程序中最常用的语言。即使是有经验的用户通常也不熟悉...",https://book.douban.com/subject/35863224/,https://img3.doubanio.com/view/subject/s/public/s34341252.jpg
+30329536,数据密集型应用系统设计,9.7,(1709人评价),Martin Kleppmann / 赵军平、李三平、吕云松、耿煜 / 中国电力出版社 / 2018-9-1 / 128,"全书分为三大部分：
+第一部分，主要讨论有关增强数据密集型应用系统所需的若干基本原则。首先开篇第1章即瞄准目标：可靠性、可扩展性与可维护性，如何认识这些问题以...",https://book.douban.com/subject/30329536/,https://img1.doubanio.com/view/subject/s/public/s34186559.jpg
+35144587,Go专家编程,9.1,(128人评价),任洪彩 / 电子工业出版社 / 2020-7 / 108.00元,《Go专家编程》深入地讲解了Go语言常见特性的内部机制和实现方式，大部分内容源自对Go语言源码的分析，并从中提炼出实现原理。通过阅读本书，读者可以快速、轻松...,https://book.douban.com/subject/35144587/,https://img3.doubanio.com/view/subject/s/public/s33699643.jpg
+25844633,实现领域驱动设计,8.4,(416人评价),Vaughn Vernon / 滕云 / 电子工业出版社 / 2014-3 / 99.00元,领域驱动设计（DDD）是教我们如何做好软件的，同时也是教我们如何更好地使用面向对象技术的。它为我们提供了设计软件的全新视角，同时也给开发者留下了一大难题：如...,https://book.douban.com/subject/25844633/,https://img1.doubanio.com/view/subject/s/public/s29544670.jpg
+30333919,架构整洁之道,8.7,(858人评价),【美】Robert C. Martin（罗伯特 C. 马丁） / 电子工业出版社 / 2018-9 / 99.00元,《架构整洁之道》是创造“Clean神话”的Bob大叔在架构领域的登峰之作，围绕“架构整洁”这一重要导向，系统地剖析其缘起、内涵及应用场景，涵盖软件研发完整过...,https://book.douban.com/subject/30333919/,https://img9.doubanio.com/view/subject/s/public/s29943454.jpg
+5387403,Effective C++,9.5,(1104人评价),[美] Scott Meyers / 侯捷 / 电子工业出版社 / 2011-1-1 / 65.00元,"在国际上，本书所引起的反响，波及整个计算机技术的出版领域，余音至今未绝。几乎在所有C++书籍的推荐名单上，这本书都会位于前三名。
+作者高超的技术把握力、独特...",https://book.douban.com/subject/5387403/,https://img2.doubanio.com/view/subject/s/public/s4647091.jpg
+36654266,高级算法和数据结构,9.7,(28人评价),马塞洛·拉·罗卡（Marcello La Rocca） / 肖鉴明 / 人民邮电出版社 / 2023-12 / 149.80元,这是一本关于“高级/进阶”算法和数据结构的图书，主要介绍了用于Web应用程序、系统编程和数据处理领域的各种算法，旨在让读者了解如何用这些算法应对各种棘手的编...,https://book.douban.com/subject/36654266/,https://img9.doubanio.com/view/subject/s/public/s34704215.jpg
+30270959,深度学习入门,9.5,(1381人评价),[日］斋藤康毅 / 陆宇杰 / 人民邮电出版社 / 2018-7 / 59.00元,本书是深度学习真正意义上的入门书，深入浅出地剖析了深度学习的原理和相关技术。书中使用Python3，尽量不依赖外部库或工具，从基本的数学知识出发，带领读者从...,https://book.douban.com/subject/30270959/,https://img9.doubanio.com/view/subject/s/public/s29815955.jpg
+25708312,C++ Primer 中文版（第 5 版）,9.4,(2781人评价),[美] Stanley B. Lippman、[美] Josée Lajoie、[美] Barbara E. Moo / 王刚、杨巨峰 / 电子工业出版社 / 2013-9-1 / 128.00元,这本久负盛名的 C++ 经典教程，时隔八年之久，终迎来史无前例的重大升级。除令全球无数程序员从中受益，甚至为之迷醉的——C++ 大师 Stanley B. ...,https://book.douban.com/subject/25708312/,https://img1.doubanio.com/view/subject/s/public/s33903490.jpg
+36457109,程序员的README,8.6,(95人评价),[美] 克里斯·里科米尼（Chris Riccomini）、[美] 德米特里·里亚博伊（Dmitriy Ryaboy） / 付裕 / 人民邮电出版社 / 2023-7-10 / 79.8,对于刚刚成为软件工程师的新手来说，知道如何编写代码只是成功了一半。你可能很快就会发现，学校并没有教授在现实世界中至关重要的技能和工作中必要的流程。本书恰恰填...,https://book.douban.com/subject/36457109/,https://img9.doubanio.com/view/subject/s/public/s34570616.jpg
+35503091,C语言程序设计：现代方法（第2版•修订版）,9.2,(114人评价),[美] K.N.金 / 吕秀锋、黄倩 / 图灵丨人民邮电出版社 / 2021-7 / 129.80元,"◎ 本书特色
+近30年来珍宝级C语言入门经典，累计印数10万+，豆瓣评分9.3分
+哈佛、麻省理工、斯坦福等诸多名校C语言教材
+基于C1X标准全新升级
+浙江大...",https://book.douban.com/subject/35503091/,https://img9.doubanio.com/view/subject/s/public/s33927414.jpg
+1998341,计算机系统要素,9.1,(269人评价),[美] Noam Nisan、[美] Shimon Schocken / 周维、宋磊、陈曦 / 电子工业出版社 / 2007-01-01 / 45.00元,本书通过展现简单但功能强大的计算机系统之构建过程，为读者呈现了一幅完整、严格的计算机应用科学大图景。本书作者认为，理解计算机工作原理的最好方法就是亲自动手，...,https://book.douban.com/subject/1998341/,https://img9.doubanio.com/view/subject/s/public/s2207295.jpg
+35972849,代码大全2（纪念版）,9.3,(62人评价),[美] 史蒂夫·麦康奈尔(Steve McConnell) / 陈玉毅、陈军、杨志昂、洪佳、徐东伟、王国良、徐毅、李虎 / 清华大学出版社 / 2022-7-7 / 256.00,"《软件开发》杂志Jolt大奖
+大而全，洞悉软件构建精髓
+优而先，兼顾行业实践研究
+奠定硬核技术领导力的经典
+庸常变身卓越的实用性指导
+《代码大全2》是著名科...",https://book.douban.com/subject/35972849/,https://img3.doubanio.com/view/subject/s/public/s34276333.jpg
+35520512,深入浅出Pandas,8.6,(97人评价),李庆辉 / 机械工业出版社 / 2021-7-10 / 99.00,"如果你想充分发挥Python的强大作用，如果你想成为一名好的Python工程师，你应该先学好Pandas。
+这是一本全面覆盖了Pandas使用者的普遍需求和...",https://book.douban.com/subject/35520512/,https://img9.doubanio.com/view/subject/s/public/s33944495.jpg
+35768338,Vue.js设计与实现,9.6,(197人评价),霍春阳 / 人民邮电出版社 / 2022-2-10 / 119.8,本书基于Vue.js 3，从规范出发，以源码为基础，并结合大量直观的配图，循序渐进地讲解Vue.js中各个功能模块的实现，细致剖析框架设计原理。全书共18章...,https://book.douban.com/subject/35768338/,https://img9.doubanio.com/view/subject/s/public/s34120804.jpg
+33450010,动手学深度学习,9.3,(552人评价),阿斯顿·张（Aston Zhang）、李沐（Mu Li）、[美] 扎卡里·C. 立顿（Zachary C. Lipton）、[德] 亚历山大·J. 斯莫拉（Alexander J. Smola） / 人民邮电出版社 / 2019-6 / 85.00元,本书旨在向读者交付有关深度学习的交互式学习体验。书中不仅阐述深度学习的算法原理，还演示它们的实现和运行。与传统图书不同，本书的每一节都是一个可以下载并运行的...,https://book.douban.com/subject/33450010/,https://img9.doubanio.com/view/subject/s/public/s32322795.jpg
+26349607,MATLAB之父:编程实践(中译本),9.3,(20人评价),[ MEI ] Cleve Moler / 薛定宇 / 北京航空航天大学出版社 / 2014-3-1 / 39.9,《MATLAB 之父：编程实践》是克利夫（Cleve）继《MATLAB 数值分析与科学计算―― 基于MATLAB（修订版）》（Numerical Compu...,https://book.douban.com/subject/26349607/,https://img9.doubanio.com/view/subject/s/public/s28031915.jpg
+35602582,现代C++语言核心特性解析,8.9,(46人评价),谢丙堃 / 人民邮电出版社 / 2021-10,这是一本 C++ 进阶图书，全书分为 42 章，深入探讨了从 C++11 到 C++20 引入的核心特性。本书不仅通过大量的实例代码讲解特性的概念和语法，还...,https://book.douban.com/subject/35602582/,https://img3.doubanio.com/view/subject/s/public/s33999027.jpg
+36303408,深度学习入门2,9.7,(32人评价),[日]斋藤康毅 / 郑明智 / 人民邮电出版社 / 2023-3 / 129.80元,"“鱼书”《深度学习入门：基于Python的理论与实现》作者又一力作。
+手把手带你创建深度学习框架，直击现代深度学习框架本质！
+◎ 编辑推荐
+• 简明易懂，讲...",https://book.douban.com/subject/36303408/,https://img3.doubanio.com/view/subject/s/public/s34476102.jpg
+35863224,C++20高级编程(第5版),8.4,(195人评价),[比]马克·格雷戈勒（Marc Gregoire） / 程序喵大人、惠惠、墨梵 / 清华大学出版社 / 2022-4 / 228,"拥抱C++的深度和复杂性，挖掘更多可能
+众所周知，C++难以掌握，但其广泛的功能使其成为游戏和商业软件应用程序中最常用的语言。即使是有经验的用户通常也不熟悉...",https://book.douban.com/subject/35863224/,https://img3.doubanio.com/view/subject/s/public/s34341252.jpg
+30329536,数据密集型应用系统设计,9.7,(1709人评价),Martin Kleppmann / 赵军平、李三平、吕云松、耿煜 / 中国电力出版社 / 2018-9-1 / 128,"全书分为三大部分：
+第一部分，主要讨论有关增强数据密集型应用系统所需的若干基本原则。首先开篇第1章即瞄准目标：可靠性、可扩展性与可维护性，如何认识这些问题以...",https://book.douban.com/subject/30329536/,https://img1.doubanio.com/view/subject/s/public/s34186559.jpg
+35144587,Go专家编程,9.1,(128人评价),任洪彩 / 电子工业出版社 / 2020-7 / 108.00元,《Go专家编程》深入地讲解了Go语言常见特性的内部机制和实现方式，大部分内容源自对Go语言源码的分析，并从中提炼出实现原理。通过阅读本书，读者可以快速、轻松...,https://book.douban.com/subject/35144587/,https://img3.doubanio.com/view/subject/s/public/s33699643.jpg
+25844633,实现领域驱动设计,8.4,(416人评价),Vaughn Vernon / 滕云 / 电子工业出版社 / 2014-3 / 99.00元,领域驱动设计（DDD）是教我们如何做好软件的，同时也是教我们如何更好地使用面向对象技术的。它为我们提供了设计软件的全新视角，同时也给开发者留下了一大难题：如...,https://book.douban.com/subject/25844633/,https://img1.doubanio.com/view/subject/s/public/s29544670.jpg
+30333919,架构整洁之道,8.7,(858人评价),【美】Robert C. Martin（罗伯特 C. 马丁） / 电子工业出版社 / 2018-9 / 99.00元,《架构整洁之道》是创造“Clean神话”的Bob大叔在架构领域的登峰之作，围绕“架构整洁”这一重要导向，系统地剖析其缘起、内涵及应用场景，涵盖软件研发完整过...,https://book.douban.com/subject/30333919/,https://img9.doubanio.com/view/subject/s/public/s29943454.jpg
+5387403,Effective C++,9.5,(1104人评价),[美] Scott Meyers / 侯捷 / 电子工业出版社 / 2011-1-1 / 65.00元,"在国际上，本书所引起的反响，波及整个计算机技术的出版领域，余音至今未绝。几乎在所有C++书籍的推荐名单上，这本书都会位于前三名。
+作者高超的技术把握力、独特...",https://book.douban.com/subject/5387403/,https://img2.doubanio.com/view/subject/s/public/s4647091.jpg
+36654266,高级算法和数据结构,9.7,(28人评价),马塞洛·拉·罗卡（Marcello La Rocca） / 肖鉴明 / 人民邮电出版社 / 2023-12 / 149.80元,这是一本关于“高级/进阶”算法和数据结构的图书，主要介绍了用于Web应用程序、系统编程和数据处理领域的各种算法，旨在让读者了解如何用这些算法应对各种棘手的编...,https://book.douban.com/subject/36654266/,https://img9.doubanio.com/view/subject/s/public/s34704215.jpg
+30270959,深度学习入门,9.5,(1381人评价),[日］斋藤康毅 / 陆宇杰 / 人民邮电出版社 / 2018-7 / 59.00元,本书是深度学习真正意义上的入门书，深入浅出地剖析了深度学习的原理和相关技术。书中使用Python3，尽量不依赖外部库或工具，从基本的数学知识出发，带领读者从...,https://book.douban.com/subject/30270959/,https://img9.doubanio.com/view/subject/s/public/s29815955.jpg
+25708312,C++ Primer 中文版（第 5 版）,9.4,(2781人评价),[美] Stanley B. Lippman、[美] Josée Lajoie、[美] Barbara E. Moo / 王刚、杨巨峰 / 电子工业出版社 / 2013-9-1 / 128.00元,这本久负盛名的 C++ 经典教程，时隔八年之久，终迎来史无前例的重大升级。除令全球无数程序员从中受益，甚至为之迷醉的——C++ 大师 Stanley B. ...,https://book.douban.com/subject/25708312/,https://img1.doubanio.com/view/subject/s/public/s33903490.jpg
+35141774,面向对象是怎样工作的（第2版）,8.2,(129人评价),[日]平泽章 / 侯振龙 / 人民邮电出版社 / 2020-7-13 / 69,本书以图配文的形式，直观易懂地详细介绍了面向对象的全貌及其中包含的各项技术，包括面向对象编程、框架、设计模式、UML、建模、面向对象设计和敏捷开发等。对于各...,https://book.douban.com/subject/35141774/,https://img3.doubanio.com/view/subject/s/public/s33687793.jpg
